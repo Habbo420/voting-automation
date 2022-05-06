@@ -1,0 +1,3 @@
+# Voting Automation
+
+### A description of what the voting automation application is all about...
